@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @silarin
 - 👀 I’m interested in ...running, cycling, snowboarding, Stable Diffusion, AI/ML
-- 🌱 I’m currently learning ...Python, AI/ML
-- 💞️ I’m looking to collaborate on ...anything!
+- 🌱 I’m currently learning ...Python and AI/ML
+- 💞️ I’m looking to collaborate on ...Python or SQL
 - 📫 How to reach me ...GitHub (github.com/silarin)
 
 <!---
